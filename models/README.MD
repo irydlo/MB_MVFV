@@ -1,0 +1,2 @@
+# Models
+Images of printed 3D models. The models a printed on resin 3D printer and created in OnShape. The models are sketch as random lines with cirular cross-section. The pattern is place on the constract plane desk.
